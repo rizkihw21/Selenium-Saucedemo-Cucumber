@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: User adds a product to the cart and checkout after logging in
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.2 s - in User adds a product to the cart and checkout after logging in
